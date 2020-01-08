@@ -1,2 +1,0 @@
-# cashback
-Created with CodeSandbox
